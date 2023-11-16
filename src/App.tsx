@@ -1,7 +1,8 @@
 import { Button, ButtonGroup } from "@chakra-ui/react";
+import AdviceCard from "./components/AdviceCard";
 
 function App() {
-  return <Button colorScheme="blue">Button</Button>;
+  return <AdviceCard />;
 }
 
 export default App;
