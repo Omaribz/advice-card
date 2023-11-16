@@ -1,0 +1,8 @@
+.dice {
+    margin: 20px auto -75px auto;
+    width: 55px;
+    height: 55px;
+    background: hsl(150, 100%, 66%);
+    padding: 18px;
+    border-radius: 50%;
+}
