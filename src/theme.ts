@@ -1,6 +1,4 @@
 import {extendTheme, ThemeConfig} from '@chakra-ui/react'
-import '@fontsource/Manrope/400.css'
-import '@fontsource/Manrope/700.css'
 
 const config: ThemeConfig = {
     initialColorMode: 'dark'
